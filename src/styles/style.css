@@ -1,0 +1,35 @@
+@font-face {
+  font-family: IchigoJam;
+  src: url("@/assets/IchigoJam.woff") format("woff");
+}
+
+.container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  background-color: #F0DFCC;
+  display: grid;
+  place-items: center;
+}
+
+#sinka {
+  position: absolute;
+  right: 20px;
+  bottom: 200px;
+  width: 300px;
+}
+
+#score {
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  font-family: IchigoJam;
+  font-size: 20px;
+  color: #000;
+}
+
+#next {
+  position: absolute;
+  right: 50px;
+  top: 50px;
+}
