@@ -1,4 +1,4 @@
-<p align="center">https://fukekazki.github.io/chotty-tower-battle/</p>
+<p align="center">https://fukekazki.github.io/suika-game/</p>
 
 # dev
 
